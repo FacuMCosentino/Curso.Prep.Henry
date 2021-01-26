@@ -1,0 +1,24 @@
+Variables: Con una variable asociamos información. Como cuando probas algo nuevo y te dicen cómo se llama. Ahora sabes que eso que probaste tiene una palabra (variable) que lo representa.
+
+
+
+Strings: Un string puede ser una letra, numero, simbolo o un conjunto de los mismos. Para crear un string solo hay que agregarles comillas a los lados.
+
+
+
+Funciones: Una función es comparable con un electrodoméstico, una cocina por ejemplo. Como en una cocina, en una función necesitamos elementos
+
+específicos para producir un resultado específico.
+  
+Estos elementos son los llamados "ARGUMENTOS". Y para obtener ese resultado vamos a utilizar el "RETURN".
+
+El return nos sirve para enviar la señal de lo que queremos obtener y recibirlo. Una vez que se activa el return la función se da por finalizada.
+
+
+Valores Booleanos: Los valores booleanos vendrían a ser un control de lo que pasa dentro de la función. Mediante el uso del "IF" podemos 
+
+comparar si los datos son verdaderos (TRUE) o falsos (FALSE).  
+
+
+
+
